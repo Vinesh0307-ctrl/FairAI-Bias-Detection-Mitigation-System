@@ -1,0 +1,26 @@
+# Environments
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+/backend/venv/
+venv/
+ENV/
+
+# Node
+node_modules/
+/frontend/.next/
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Data & Models
+*.csv
+*.pkl
+*.joblib
+*.h5
